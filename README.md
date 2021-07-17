@@ -1,4 +1,4 @@
-# task1_ros_
+# task1_ros_Arm
 using ros configuration an arm in ubnto 18.04
 
 1-Install ros packeges on ubnto terminal 
